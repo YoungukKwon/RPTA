@@ -1,5 +1,5 @@
 # RTPA
-Codes for Robust penalized tensor approximation
+Codes for Robust penalized tensor approximation (RPTA)
 
 - pkg_load.R: Required packages
 - utils.R: Utility functions for simulation
