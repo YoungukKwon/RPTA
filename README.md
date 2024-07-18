@@ -1,4 +1,4 @@
-# RTPA
+# RPTA
 Codes for Robust penalized tensor approximation (RPTA)
 
 - pkg_load.R: Required packages
